@@ -1,0 +1,192 @@
+[
+  {
+    "id": "aura-pods-pro",
+    "name": "Aura Pods Pro",
+    "description": "Next-generation wireless earbuds featuring hybrid active noise cancellation, custom high-excursion drivers, and adaptive audio transparency. Encased in a tactile, bead-blasted aluminum charging case.",
+    "price": 249,
+    "category": "Audio",
+    "image": "/images/aura_pods_pro.png",
+    "stock": 45,
+    "featured": true,
+    "rating": 4.8,
+    "reviewsCount": 124,
+    "specs": [
+      "Hybrid Active Noise Cancellation (up to 45dB)",
+      "High-Fidelity Custom Audio Driver",
+      "30 Hours total playtime with charging case",
+      "IPX4 Sweat and Water Resistance",
+      "Qi-certified Wireless Charging & USB-C"
+    ]
+  },
+  {
+    "id": "aura-watch-ultra",
+    "name": "Aura Watch Ultra",
+    "description": "The ultimate adventure companion. Engineered with an aerospace-grade titanium case, dual-frequency precision GPS, and a stunning 2000-nits sapphire glass OLED display. Designed to endure extreme conditions.",
+    "price": 799,
+    "category": "Wearables",
+    "image": "/images/aura_watch_ultra.png",
+    "stock": 20,
+    "featured": true,
+    "rating": 4.9,
+    "reviewsCount": 88,
+    "specs": [
+      "49mm Aerospace Titanium Case",
+      "Sapphire Crystal Glass Display",
+      "Dual-Frequency Precision L1/L5 GPS",
+      "Up to 72 Hours battery life in low power mode",
+      "100m Water Resistance & Dive Certified"
+    ]
+  },
+  {
+    "id": "aura-arc",
+    "name": "Aura Arc",
+    "description": "Immersive studio sound meets ergonomic excellence. These premium over-ear wireless headphones combine an advanced acoustic system with soft lambskin memory foam earcups and a lightweight carbon fiber headband.",
+    "price": 399,
+    "category": "Audio",
+    "image": "/images/aura_arc_headphones.png",
+    "stock": 30,
+    "featured": true,
+    "rating": 4.7,
+    "reviewsCount": 96,
+    "specs": [
+      "40mm Custom Dynamic Drivers",
+      "Advanced Adaptive Noise Cancelling",
+      "Up to 40 Hours Wireless Listening",
+      "Bluetooth 5.3 with Multipoint Connect",
+      "Premium Lambskin & Carbon Fiber build"
+    ]
+  },
+  {
+    "id": "aura-beam",
+    "name": "Aura Beam",
+    "description": "Transform any room into a cinematic oasis. A 4K ultra-short throw laser projector that outputs 2500 ANSI lumens, delivering vibrant, razor-sharp imagery up to 120 inches from just inches away from the wall.",
+    "price": 1299,
+    "category": "Home Tech",
+    "image": "/images/aura_beam_projector.png",
+    "stock": 12,
+    "featured": true,
+    "rating": 4.9,
+    "reviewsCount": 34,
+    "specs": [
+      "True 4K UHD Resolution (3840 x 2116)",
+      "2500 ANSI Lumens Brightness",
+      "0.21 Ultra-Short Throw Ratio",
+      "Built-in 40W Harman Kardon sound system",
+      "Android TV integration with HDR10 support"
+    ]
+  },
+  {
+    "id": "aura-charge",
+    "name": "Aura Charge 3-in-1",
+    "description": "Declutter your nightstand with elegance. Crafted from a single block of walnut wood and precision-milled aluminum, this stand charges your phone, smartwatch, and wireless earbuds simultaneously at maximum speeds.",
+    "price": 129,
+    "category": "Accessories",
+    "image": "/images/aura_charge_dock.png",
+    "stock": 60,
+    "featured": false,
+    "rating": 4.6,
+    "reviewsCount": 142,
+    "specs": [
+      "15W Fast Wireless Charging for Phones",
+      "Integrated Apple/Smartwatch charging pad",
+      "Dedicated 5W wireless earbuds charging zone",
+      "American Walnut & Anodized Aluminum",
+      "Includes 30W USB-C PD power adapter"
+    ]
+  },
+  {
+    "id": "aura-key",
+    "name": "Aura Key Keyboard",
+    "description": "A masterpiece of typing tactile response. Features a solid CNC-milled brass base plate, gasket-mounted PCB structure, hot-swappable switches, and hand-lubricated linear switches encased in frosted acrylic.",
+    "price": 219,
+    "category": "Accessories",
+    "image": "/images/aura_key_keyboard.png",
+    "stock": 15,
+    "featured": false,
+    "rating": 4.8,
+    "reviewsCount": 57,
+    "specs": [
+      "75% Compact Layout with volume dial",
+      "CNC Anodized Brass & Frosted Acrylic case",
+      "Gasket Mounted Plate structure",
+      "Hot-swappable 5-pin PCB supports MX switches",
+      "Double-Shot PBT Cherry Profile keycaps"
+    ]
+  },
+  {
+    "id": "aura-sight",
+    "name": "Aura Sight Display",
+    "description": "The pinnacle of desktop immersion. A 34-inch curved QD-OLED professional monitor featuring a 175Hz refresh rate, 0.03ms response time, and infinite contrast ratio. Perfectly tuned for both productivity and gaming.",
+    "price": 1099,
+    "category": "Display",
+    "image": "/images/aura_sight_monitor.png",
+    "stock": 8,
+    "featured": true,
+    "rating": 4.9,
+    "reviewsCount": 42,
+    "specs": [
+      "34-inch 1800R Curved QD-OLED Panel",
+      "UWQHD (3440 x 1440) resolution",
+      "175Hz Refresh Rate & 0.03ms Response Time",
+      "VESA DisplayHDR True Black 400 certified",
+      "USB-C Connectivity with 90W Power Delivery"
+    ]
+  },
+  {
+    "id": "aura-soundbar",
+    "name": "Aura Soundbar",
+    "description": "Bring multi-dimensional theater audio home. A premium standalone soundbar incorporating 7 drivers, upward-firing height channels, and virtual Dolby Atmos processing wrapped in recycled wool-blend fabric.",
+    "price": 599,
+    "category": "Home Tech",
+    "image": "/images/aura_soundbar.png",
+    "stock": 18,
+    "featured": false,
+    "rating": 4.5,
+    "reviewsCount": 65,
+    "specs": [
+      "Virtual Dolby Atmos & DTS:X support",
+      "7 High-performance drivers with built-in subwoofers",
+      "HDMI eARC connection for lossless playback",
+      "AirPlay 2, Spotify Connect, and Bluetooth",
+      "Premium Kvadrat textile acoustic grille"
+    ]
+  },
+  {
+    "id": "aura-pad",
+    "name": "Aura Pad Heated Desk Mat",
+    "description": "Elevate your workspace comfort. Hand-crafted from full-grain vegetable-tanned leather, this desk mat includes a built-in smart heating element with three temperature levels and automatic shutoff.",
+    "price": 89,
+    "category": "Accessories",
+    "image": "/images/aura_pad_deskmat.png",
+    "stock": 50,
+    "featured": false,
+    "rating": 4.7,
+    "reviewsCount": 110,
+    "specs": [
+      "Premium Vegetable-Tanned Leather surface",
+      "Safe low-voltage carbon fiber heating element",
+      "3 Temperature presets (35°C, 45°C, 55°C)",
+      "100% natural cork non-slip backing",
+      "Smart 4-hour automatic safety shutoff"
+    ]
+  },
+  {
+    "id": "aura-pack",
+    "name": "Aura Pack Backpack",
+    "description": "A minimalist shell for your daily essentials. Built with ultra-tough X-Pac waterproof fabric, modular interior pockets, quick-access laptop sleeve, and magnetic Fidlock buckles.",
+    "price": 189,
+    "category": "Lifestyle",
+    "image": "/images/aura_pack_backpack.png",
+    "stock": 25,
+    "featured": false,
+    "rating": 4.8,
+    "reviewsCount": 79,
+    "specs": [
+      "Waterproof X-Pac Sailcloth laminate exterior",
+      "Suspended laptop compartment fits up to 16\" devices",
+      "German Fidlock magnetic snap closures",
+      "Ergonomic thermoformed back panel support",
+      "20L Modular storage volume"
+    ]
+  }
+]

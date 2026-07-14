@@ -1,0 +1,10 @@
+[
+  {
+    "id": "992f5518-6a40-4d96-aee4-5a67887975bf",
+    "name": "Aura Administrator",
+    "email": "admin@aura.com",
+    "password": "$2a$10$or0rjibxTwbC9aNWCA/zUOZyL2YPRA6wItZlENBZeY1FaDElDkkRC",
+    "role": "admin",
+    "createdAt": "2026-07-14T15:01:22.853Z"
+  }
+]

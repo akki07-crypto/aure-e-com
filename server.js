@@ -467,7 +467,19 @@ app.get('/api/admin/stats', authenticateToken, requireAdmin, async (req, res) =>
   }
 });
 
+// Serve static assets in production
+const CLIENT_DIST = path.join(__dirname, 'client', 'dist');
+app.use(express.static(CLIENT_DIST));
+
+app.get('*', (req, res) => {
+  if (req.path.startsWith('/api') || req.path.startsWith('/uploads')) {
+    return res.status(404).json({ message: 'API route not found' });
+  }
+  res.sendFile(path.join(CLIENT_DIST, 'index.html'));
+});
+
 // Start Server
 app.listen(PORT, () => {
   console.log(`Server running in watch mode on port ${PORT}`);
 });
+
